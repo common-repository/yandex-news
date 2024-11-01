@@ -1,0 +1,93 @@
+# #-#-#-#-#  yandex-news.pot (Yandex News 0.3)  #-#-#-#-#
+# Copyright (C) 2016 Yandex News
+# This file is distributed under the same license as the Yandex News package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yandex News 0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yandex-news\n"
+"POT-Creation-Date: 2016-04-21 16:28:42+00:00\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yevhen Amelin <yevhen.amelin@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: yandex-news.php:55
+msgid "Yandex.News plugin settings page"
+msgstr "Страница настроек плагина Яндекс.Новости"
+
+#: yandex-news.php:56
+msgid "Yandex.News"
+msgstr "Яндекс.Новости"
+
+#: yandex-news.php:68
+msgid "Yandex News Settings"
+msgstr "Настройки плагина Яндекс.Новости"
+
+#: yandex-news.php:90
+msgid "Main Feed Settings"
+msgstr "Основные настройки ленты"
+
+#: yandex-news.php:97
+msgid "Path"
+msgstr "Путь"
+
+#: yandex-news.php:105 yandex-news.php:199
+msgid "Logo"
+msgstr "Логотип"
+
+#: yandex-news.php:113 yandex-news.php:212
+msgid "Logo square"
+msgstr "Квадратный логотип"
+
+#: yandex-news.php:121
+msgid "Categories"
+msgstr "Категории"
+
+#: yandex-news.php:163
+msgid "You must specify a valid image URL"
+msgstr "Требуется указать корректный путь к изображению"
+
+#: yandex-news.php:173
+msgid "Your feed is active"
+msgstr "Ваша лента активна"
+
+#: yandex-news.php:174
+msgid "Feed URL: <a href=\"%s\" target=\"_blank\">%1$s</a>"
+msgstr "Путь к ленте: <a href=\"%s\" target=\"_blank\">%1$s</a>"
+
+#: yandex-news.php:180
+msgid "Your feed is not active"
+msgstr "Ваша лента не активна"
+
+#: yandex-news.php:189
+msgid "Feed name"
+msgstr "Название ленты"
+
+#: yandex-news.php:200 yandex-news.php:213
+msgid "required field"
+msgstr "обязательное поле"
+
+#. Plugin Name of the plugin/theme
+msgid "Yandex News"
+msgstr "Яндекс.Новости"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/yandex-news/"
+msgstr "https://wordpress.org/plugins/yandex-news/"
+
+#. Description of the plugin/theme
+msgid "Generates an XML feed to export news in the Yandex.News service"
+msgstr "Генерирует ленту в формате XML для экспорта в сервис Яндекс.Новости"
+
+#. Author of the plugin/theme
+msgid "Yevhen Amelin <yevhen.amelin@gmail.com>"
+msgstr "Евгений Амелин <yevhen.amelin@gmail.com>"
+
+#~ msgid "Image"
+#~ msgstr "Картинка"
+
+#~ msgid "Feed image"
+#~ msgstr "Изображение ленты"

@@ -1,0 +1,85 @@
+# Copyright (C) 2016 Yandex News
+# This file is distributed under the same license as the Yandex News package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yandex News 0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yandex-news\n"
+"POT-Creation-Date: 2016-04-21 16:28:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: yandex-news.php:55
+msgid "Yandex.News plugin settings page"
+msgstr ""
+
+#: yandex-news.php:56
+msgid "Yandex.News"
+msgstr ""
+
+#: yandex-news.php:68
+msgid "Yandex News Settings"
+msgstr ""
+
+#: yandex-news.php:90
+msgid "Main Feed Settings"
+msgstr ""
+
+#: yandex-news.php:97
+msgid "Path"
+msgstr ""
+
+#: yandex-news.php:105 yandex-news.php:199
+msgid "Logo"
+msgstr ""
+
+#: yandex-news.php:113 yandex-news.php:212
+msgid "Logo square"
+msgstr ""
+
+#: yandex-news.php:121
+msgid "Categories"
+msgstr ""
+
+#: yandex-news.php:163
+msgid "You must specify a valid image URL"
+msgstr ""
+
+#: yandex-news.php:173
+msgid "Your feed is active"
+msgstr ""
+
+#: yandex-news.php:174
+msgid "Feed URL: <a href=\"%s\" target=\"_blank\">%1$s</a>"
+msgstr ""
+
+#: yandex-news.php:180
+msgid "Your feed is not active"
+msgstr ""
+
+#: yandex-news.php:189
+msgid "Feed name"
+msgstr ""
+
+#: yandex-news.php:200 yandex-news.php:213
+msgid "required field"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Yandex News"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/yandex-news/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Generates an XML feed to export news in the Yandex.News service"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Yevhen Amelin <yevhen.amelin@gmail.com>"
+msgstr ""
